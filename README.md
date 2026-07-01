@@ -1,3 +1,8 @@
+### 3D Contribution Graph
+<div align="center">
+  <img src="profile-3d-contrib/profile-night-view.svg" alt="3D GitHub Contribution" />
+</div>
+
 # Hi there, I'm Bùi Ngọc Tâm
 
 I am a Software Engineering student at FPT University with a strong focus on full-stack development, system architecture, and game development.
