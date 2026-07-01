@@ -1,6 +1,6 @@
 ### 3D Contribution Graph
 <div align="center">
-  <img src="profile-3d-contrib/profile-night-view.svg" alt="3D GitHub Contribution" />
+  <img src="profile-3d-contrib/profile-gitblock.svg" alt="3D GitHub Contribution" />
 </div>
 
 # Hi there, I'm Bùi Ngọc Tâm
