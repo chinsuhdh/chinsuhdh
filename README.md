@@ -1,9 +1,7 @@
 <div align="center">
-  <h1>Bùi Ngọc Tâm</h1>
-  <p>
-    Software Engineering Student at FPT University<br/>
-    <b>Backend Developer</b> • <b>Full-stack Developer</b> • <b>System Design</b>
-  </p>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=90&text=B%C3%B9i%20Ng%E1%BB%8Dc%20T%C3%A2m&fontSize=40&fontColor=c9d1d9&animation=fadeIn" alt="Bùi Ngọc Tâm" />
+  <p>Software Engineering Student at FPT University</p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1500&color=8B949E&center=true&vCenter=true&width=420&lines=Backend+Developer;Full-stack+Developer;System+Design" alt="Backend Developer • Full-stack Developer • System Design" />
 </div>
 
 ---
