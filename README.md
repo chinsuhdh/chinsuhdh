@@ -6,6 +6,7 @@
   <a href="https://www.linkedin.com/in/t%C3%A2m-b%C3%B9i-ng%E1%BB%8Dc-ab8566430"><img src="https://img.shields.io/badge/LinkedIn-30363d?style=flat-square&logo=linkedin&logoColor=c9d1d9" alt="LinkedIn" /></a>
   <a href="mailto:buingoctam06042003@gmail.com"><img src="https://img.shields.io/badge/Email-30363d?style=flat-square&logo=gmail&logoColor=c9d1d9" alt="Email" /></a>
   <a href="https://web.facebook.com/profile.php?id=100012861283735"><img src="https://img.shields.io/badge/Facebook-30363d?style=flat-square&logo=facebook&logoColor=c9d1d9" alt="Facebook" /></a>
+  <img src="https://komarev.com/ghpvc/?username=chinsuhdh&style=flat-square&color=30363d&label=Profile+Views" alt="Profile views" />
 </div>
 
 <img src="assets/wave.svg" width="100%" height="50" alt="" />
