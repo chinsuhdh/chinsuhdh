@@ -30,7 +30,7 @@ Backend & Full-stack developer focused on building scalable systems, clean archi
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-south-season-animate.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-rainbow.svg" />
     <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-south-season-animate.svg" />
     <img src="profile-3d-contrib/profile-south-season-animate.svg" alt="3D GitHub Contribution" />
   </picture>
