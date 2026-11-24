@@ -1,10 +1,14 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=transparent&height=90&text=B%C3%B9i%20Ng%E1%BB%8Dc%20T%C3%A2m&fontSize=40&fontColor=c9d1d9&animation=fadeIn" alt="Bùi Ngọc Tâm" />
   <p>Software Engineering Student at FPT University</p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1500&color=8B949E&center=true&vCenter=true&width=420&lines=Backend+Developer;Full-stack+Developer;System+Design" alt="Backend Developer • Full-stack Developer • System Design" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=1800&pause=2500&color=8B949E&center=true&vCenter=true&width=420&height=28&lines=Backend+Developer;Full-stack+Developer;System+Design" alt="Backend Developer • Full-stack Developer • System Design" />
+  <br/>
+  <a href="https://www.linkedin.com/in/t%C3%A2m-b%C3%B9i-ng%E1%BB%8Dc-ab8566430"><img src="https://img.shields.io/badge/LinkedIn-30363d?style=flat-square&logo=linkedin&logoColor=c9d1d9" alt="LinkedIn" /></a>
+  <a href="mailto:buingoctam06042003@gmail.com"><img src="https://img.shields.io/badge/Email-30363d?style=flat-square&logo=gmail&logoColor=c9d1d9" alt="Email" /></a>
+  <a href="https://web.facebook.com/profile.php?id=100012861283735"><img src="https://img.shields.io/badge/Facebook-30363d?style=flat-square&logo=facebook&logoColor=c9d1d9" alt="Facebook" /></a>
 </div>
 
-<img src="assets/wave.svg" width="100%" height="70" alt="" />
+<img src="assets/wave.svg" width="100%" height="50" alt="" />
 
 <img src="assets/divider.svg" width="100%" height="6" alt="" />
 
