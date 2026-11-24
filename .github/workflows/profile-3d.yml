@@ -1,8 +1,8 @@
 name: GitHub-Profile-3D-Contrib
 
 on:
-  schedule: # Chạy tự động vào 18:00 UTC (1:00 sáng giờ VN) mỗi ngày
-    - cron: "0 18 * * *"
+  schedule: # Chạy tự động mỗi 6 tiếng
+    - cron: "0 */6 * * *"
   workflow_dispatch: # Cho phép bạn bấm nút chạy thủ công
 
 jobs:
