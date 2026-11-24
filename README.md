@@ -28,9 +28,9 @@ Backend & Full-stack developer focused on building scalable systems, clean archi
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-view.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-gitblock.svg" />
-    <img src="profile-3d-contrib/profile-gitblock.svg" alt="3D GitHub Contribution" />
+    <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-south-season.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-south-season.svg" />
+    <img src="profile-3d-contrib/profile-south-season.svg" alt="3D GitHub Contribution" />
   </picture>
 </div>
 
