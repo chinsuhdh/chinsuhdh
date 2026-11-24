@@ -39,6 +39,10 @@ Backend & Full-stack developer focused on building scalable systems, clean archi
 </p>
 
 <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chinsuhdh&bg_color=00000000&color=8B949E&title_color=C9D1D9&line=C9D1D9&point=C9D1D9&area=true&area_color=8B949E&hide_border=true" alt="Activity Graph" />
+</p>
+
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chinsuhdh/chinsuhdh/output/snake-dark.svg" />
     <img src="https://raw.githubusercontent.com/chinsuhdh/chinsuhdh/output/snake.svg" alt="Snake eating contributions" />
