@@ -34,6 +34,14 @@ Backend & Full-stack developer focused on building scalable systems, clean archi
   </picture>
 </div>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=chinsuhdh&theme=transparent&hide_border=true&ring=8B949E&fire=8B949E&currStreakLabel=C9D1D9&sideLabels=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E&stroke=30363D" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=chinsuhdh&theme=flat&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies" />
+</p>
+
 ---
 
 <p align="center">
