@@ -17,7 +17,7 @@ Backend & Full-stack developer focused on building scalable systems, clean archi
 ### Core Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,react,docker,git&perline=6" alt="Core Tech Stack" />
+  <img src="https://skillicons.dev/icons?theme=dark&i=cs,dotnet,ts,react,docker,git&perline=6" alt="Core Tech Stack" />
 </p>
 
 <p align="center">
