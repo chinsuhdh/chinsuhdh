@@ -4,6 +4,10 @@
       <stop offset="0" stop-color="#c9d1d9" stop-opacity="0"/>
       <stop offset="1" stop-color="#c9d1d9" stop-opacity="0.9"/>
     </linearGradient>
+    <linearGradient id="tail2" x1="1" x2="0">
+      <stop offset="0" stop-color="#58a6ff" stop-opacity="0"/>
+      <stop offset="1" stop-color="#c9d1d9" stop-opacity="0.9"/>
+    </linearGradient>
   </defs>
   <circle cx="0" cy="106" r="0.8" fill="#8b949e"><animate attributeName="opacity" values="0.15;0.9;0.15" dur="3.8s" begin="3.6s" repeatCount="indefinite"/></circle>
   <circle cx="395" cy="88" r="1.4" fill="#8b949e"><animate attributeName="opacity" values="0.15;0.9;0.15" dur="5.2s" begin="3.4s" repeatCount="indefinite"/></circle>
@@ -79,5 +83,10 @@
     <line x1="0" y1="0" x2="90" y2="22" stroke="url(#tail)" stroke-width="1.5" stroke-linecap="round"/>
     <animateTransform attributeName="transform" type="translate" values="150 -10;650 110" keyTimes="0;1" dur="1.4s" begin="1s;meteor.end+2.5s" id="meteor"/>
     <animate attributeName="opacity" values="0;1;0" dur="1.4s" begin="1s;meteor.end+2.5s"/>
+  </g>
+  <g opacity="0">
+    <line x1="0" y1="0" x2="-70" y2="16" stroke="url(#tail2)" stroke-width="1.2" stroke-linecap="round"/>
+    <animateTransform attributeName="transform" type="translate" values="1080 -10;700 100" keyTimes="0;1" dur="1.2s" begin="3s;meteor2.end+3.5s" id="meteor2"/>
+    <animate attributeName="opacity" values="0;1;0" dur="1.2s" begin="3s;meteor2.end+3.5s"/>
   </g>
 </svg>
