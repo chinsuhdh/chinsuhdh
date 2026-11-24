@@ -11,13 +11,9 @@
 
 <img src="assets/meteor-shower.svg" width="100%" height="90" alt="" />
 
-<img src="assets/network-divider.svg" width="100%" height="30" alt="" />
-
 ### About Me
 
 Backend & Full-stack developer focused on building scalable systems, clean architecture, and modern web applications. Currently diving deeper into distributed systems, microservices, and DevOps.
-
-<img src="assets/network-divider.svg" width="100%" height="30" alt="" />
 
 ### Core Stack
 
@@ -28,8 +24,6 @@ Backend & Full-stack developer focused on building scalable systems, clean archi
 <p align="center">
   <sub><b>Backend:</b> ASP.NET Core, EF Core, SignalR  •  <b>Database:</b> SQL Server, PostgreSQL  •  <b>Frontend:</b> React, Vite, Tailwind CSS</sub>
 </p>
-
-<img src="assets/network-divider.svg" width="100%" height="30" alt="" />
 
 ### 3D Contributions
 
@@ -55,8 +49,6 @@ Backend & Full-stack developer focused on building scalable systems, clean archi
     <img src="https://raw.githubusercontent.com/chinsuhdh/chinsuhdh/output/snake.svg" alt="Snake eating contributions" />
   </picture>
 </p>
-
-<img src="assets/network-divider.svg" width="100%" height="30" alt="" />
 
 <p align="center">
   <a href="mailto:buingoctam06042003@gmail.com">buingoctam06042003@gmail.com</a>  •  Ho Chi Minh City, Vietnam
