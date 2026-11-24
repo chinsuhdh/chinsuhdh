@@ -39,7 +39,10 @@ Backend & Full-stack developer focused on building scalable systems, clean archi
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chinsuhdh&theme=flat&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chinsuhdh/chinsuhdh/output/snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/chinsuhdh/chinsuhdh/output/snake.svg" alt="Snake eating contributions" />
+  </picture>
 </p>
 
 ---
