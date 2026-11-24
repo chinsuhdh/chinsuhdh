@@ -9,7 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username=chinsuhdh&style=flat-square&color=30363d&label=Profile+Views" alt="Profile views" />
 </div>
 
-<img src="assets/wave.svg" width="100%" height="50" alt="" />
+<img src="assets/stars.svg" width="100%" height="90" alt="" />
 
 <img src="assets/divider.svg" width="100%" height="6" alt="" />
 
