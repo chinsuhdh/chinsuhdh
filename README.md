@@ -4,6 +4,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1500&color=8B949E&center=true&vCenter=true&width=420&lines=Backend+Developer;Full-stack+Developer;System+Design" alt="Backend Developer • Full-stack Developer • System Design" />
 </div>
 
+<img src="assets/wave.svg" width="100%" height="70" alt="" />
+
 ---
 
 ### About Me
