@@ -54,3 +54,5 @@ Backend & Full-stack developer focused on building scalable systems, clean archi
 <p align="center">
   <a href="mailto:buingoctam06042003@gmail.com">buingoctam06042003@gmail.com</a>  •  Ho Chi Minh City, Vietnam
 </p>
+
+<img src="assets/wave.svg" width="100%" alt="" />
