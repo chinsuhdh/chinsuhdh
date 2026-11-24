@@ -9,15 +9,15 @@
   <img src="https://komarev.com/ghpvc/?username=chinsuhdh&style=flat-square&color=30363d&label=Profile+Views" alt="Profile views" />
 </div>
 
-<img src="assets/stars.svg?v=3" width="100%" height="90" alt="" />
+<img src="assets/stars.svg" width="100%" height="90" alt="" />
 
-<img src="assets/divider.svg?v=2" width="100%" height="30" alt="" />
+<img src="assets/network-divider.svg" width="100%" height="30" alt="" />
 
 ### About Me
 
 Backend & Full-stack developer focused on building scalable systems, clean architecture, and modern web applications. Currently diving deeper into distributed systems, microservices, and DevOps.
 
-<img src="assets/divider.svg?v=2" width="100%" height="30" alt="" />
+<img src="assets/network-divider.svg" width="100%" height="30" alt="" />
 
 ### Core Stack
 
@@ -29,7 +29,7 @@ Backend & Full-stack developer focused on building scalable systems, clean archi
   <sub><b>Backend:</b> ASP.NET Core, EF Core, SignalR  •  <b>Database:</b> SQL Server, PostgreSQL  •  <b>Frontend:</b> React, Vite, Tailwind CSS</sub>
 </p>
 
-<img src="assets/divider.svg?v=2" width="100%" height="30" alt="" />
+<img src="assets/network-divider.svg" width="100%" height="30" alt="" />
 
 ### 3D Contributions
 
@@ -56,7 +56,7 @@ Backend & Full-stack developer focused on building scalable systems, clean archi
   </picture>
 </p>
 
-<img src="assets/divider.svg?v=2" width="100%" height="30" alt="" />
+<img src="assets/network-divider.svg" width="100%" height="30" alt="" />
 
 <p align="center">
   <a href="mailto:buingoctam06042003@gmail.com">buingoctam06042003@gmail.com</a>  •  Ho Chi Minh City, Vietnam
